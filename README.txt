@@ -1,0 +1,1 @@
+Projekt iz kolegija razvoj telekomunikacijske programske podrške. Upravljanje procesima.
